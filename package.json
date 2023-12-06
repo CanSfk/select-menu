@@ -1,0 +1,24 @@
+{
+  "name": "my-select-menu",
+  "version": "1.0.0",
+  "description": "select-menu , my first package",
+  "main": "main.js",
+  "scripts": {
+    "test": "(echo \"Error: no test specified\" && exit 1) jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanSfk/select-menu.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "select-menu"
+  ],
+  "author": "Can",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CanSfk/select-menu/issues"
+  },
+  "homepage": "https://github.com/CanSfk/select-menu#readme"
+}
